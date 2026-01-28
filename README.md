@@ -87,21 +87,6 @@ Examples include:
 
 ---
 
-## 📁 Project Structure
-
-```txt
-src/
-│── components/
-│   ├── MovieForm.jsx
-│   ├── MovieList.jsx
-│   ├── MovieItem.jsx
-│   ├── FilterControls.jsx
-│   └── Summary.jsx
-│
-│── App.jsx
-│── main.jsx
-│── styles.css
-```
 
 ## 🚀 Getting Started
 ### Clone the repository:
